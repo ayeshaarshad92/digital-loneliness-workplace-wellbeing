@@ -38,3 +38,4 @@ complete literature review, methodology, SPSS output, and interpretation.
 
 ## Dashboard
 See the `dashboard/` folder for the React source code.
+**Live demo:** [digital-loneliness-workplace-wellbe.vercel.app](https://digital-loneliness-workplace-wellbe.vercel.app)
